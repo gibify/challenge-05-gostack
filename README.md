@@ -11,4 +11,4 @@
  
 ## SOBRE O DESAFIO / ABOUT THIS CHALLENGE:
 Este desafio foi proposto pelo [Bootcamp GoStack](https://rocketseat.com.br/gostack).
-
+Nesse desafio, foi criado uma aplicação para continuar treinando o que foi aprendido até agora do Node.js junto ao TypeScript, utilizando o conceito de models, repositories e services!
