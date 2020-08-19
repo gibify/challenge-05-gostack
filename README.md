@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/gibifyOfficial/Back-end-NodeJS/blob/master/Back-end-NodeJS/public/assets/back-end.png" 600>
+<img src="https://github.com/gibify/challenge-05-gostack/blob/master/assets/back-end.png" 600>
 </h1>
 
 ## TECNOLOGIAS USADAS NO DESAFIO / TECHS:
