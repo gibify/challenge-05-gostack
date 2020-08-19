@@ -14,3 +14,13 @@
 ## SOBRE O DESAFIO / ABOUT THIS CHALLENGE:
 Este desafio foi proposto pelo [Bootcamp GoStack](https://rocketseat.com.br/gostack).
 Nesse desafio, foi criado uma aplicação para continuar treinando o que foi aprendido até agora do Node.js junto ao TypeScript, utilizando o conceito de models, repositories e services!
+
+## Avaliação e Entrega:
+<h1 align="center">
+ <img src="https://github.com/gibify/Back-end-NodeJS/blob/master/Back-end-NodeJS/public/assets/Screenshot%20(6).png" />
+</h1>
+
+## Testes:
+<h1 align="center">
+<img src="https://github.com/gibify/Back-end-NodeJS/blob/master/Back-end-NodeJS/public/assets/Screenshot%20(2).png" />
+</h1>
