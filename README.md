@@ -22,5 +22,5 @@ Nesse desafio, foi criado uma aplicação para continuar treinando o que foi apr
 
 ## Testes:
 <h1 align="center">
-<img src="https://github.com/gibify/Back-end-NodeJS/blob/master/Back-end-NodeJS/public/assets/Screenshot%20(2).png" />
+<img src="https://github.com/gibify/challenge-05-gostack/blob/master/assets/Screenshot%20(13).png" />
 </h1>
